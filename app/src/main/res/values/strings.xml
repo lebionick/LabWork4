@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LabWork4</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">DELETE</string>
+    <string name="action_delete_all">DELETE ALL</string>
+    <string name="action_edit">EDIT</string>
+    <string name="action_quit">Quit</string>
+
+    <string name="text_name">Type Name</string>
+    <string name="text_surname">Type Surname</string>
+    <string name="text_age">Type Age</string>
+    <string name="text_grade">Type Grade</string>
+</resources>
